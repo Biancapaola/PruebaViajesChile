@@ -1,11 +1,10 @@
 /*Selector*/
-body {background-color: black;}
 header {margin-top: -100px;}
 
 /*selector por clase*/
 .trn {z-index: 99;}
 .icontext {text-align: center; color: white;}
 .titulos {text-align: center;color: white;}
-.iconsfoo {color: white};
+.iconsfoo {color: white;}
 
 /*selector po id*/
